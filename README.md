@@ -44,7 +44,6 @@ Full-Stack Web Developer skilled in creating scalable web applications and profi
 ## 📞 Contact
 
 📧 Email: [viren15152@gmail.com](mailto:viren15152@gmail.com)  
-📍 Location: Birmingham, UK  
-🌐 [GitHub](https://github.com/viren15152) | [Portfolio](#) | [LinkedIn](#)  
+📍 Location: Birmingham, UK 
 
 Feel free to reach out for collaboration or just to connect! 🚀
