@@ -10,13 +10,15 @@ Full-Stack Web Developer skilled in creating scalable web applications and profi
 
 ### **Front-end Development**
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2.svg?&style=flat-square&logo=bulma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white)
+![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
 ![Blazor](https://img.shields.io/badge/Blazor-%235C2D91.svg?&style=flat-square&logo=blazor&logoColor=white)
 
 ### **Back-end Development**
@@ -30,12 +32,13 @@ Full-Stack Web Developer skilled in creating scalable web applications and profi
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 
 ### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-%23007ACC.svg?&style=flat-square&logo=sequelize&logoColor=white)
 ![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
+![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge)
 ---
 ## 📚 Education
 🎓 **Full Stack Web Development (Certificate)** – *University of Birmingham (2023 – 2024)*
