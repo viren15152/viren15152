@@ -38,7 +38,7 @@ Full-Stack Web Developer skilled in creating scalable web applications and profi
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
-![ORM](https://img.shields.io/badge/ORM-%23007ACC.svg?&style=flat-square&logo=sequelize&logoColor=white)
+![ORM Badge](https://img.shields.io/badge/ORM-00758F?logo=database&logoColor=white&style=for-the-badge)
 ![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
