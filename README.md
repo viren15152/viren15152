@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Viren Lala!
+# 👋 Hello, I'm Viren Lala
 
 ![Full-Stack Web Developer](https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Birmingham,%20UK-red?style=flat-square)
