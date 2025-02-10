@@ -6,6 +6,9 @@
 <table>
 <tr>
   <td>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">
+  </td>
+  <td>
     <img src="https://github-readme-stats.vercel.app/api?username=viren15152&show_icons=true&theme=dark" height="200">
   </td>
   <td>
