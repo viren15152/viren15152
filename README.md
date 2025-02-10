@@ -6,13 +6,10 @@
 <table>
 <tr>
   <td>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">
+    <img src="https://github-readme-stats.vercel.app/api?username=viren15152&show_icons=true&theme=dark&card_width=450" height="220">
   </td>
   <td>
-    <img src=![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viren15152&show_icons=true&theme=dark)
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark&langs_count=8&card_width=450" height="220">
   </td>
 </tr>
 </table>
