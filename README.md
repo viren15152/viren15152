@@ -3,8 +3,9 @@
 ![Full-Stack Web Developer](https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Birmingham,%20UK-red?style=flat-square)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viren15152&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viren15152&show_icons=true&theme=dark&card_width=350)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark&card_width=350)
+
 
 Full-Stack Web Developer skilled in creating scalable web applications and proficient in front-end technologies such as HTML, CSS, and JavaScript (ES6), alongside frameworks like React, Bootstrap, and Tailwind CSS. Experienced in back-end development using Node.js, Express.js, and database management with MySQL, PostgreSQL, and NoSQL databases such as MongoDB. Passionate about delivering exceptional user experiences and adept at developing and consuming Web APIs, including GraphQL. I gained my Full-Stack Web Development certificate from The University of Birmingham, with a proven ability to collaborate in teams, demonstrate creativity, and guide projects from concept to completion.
 
