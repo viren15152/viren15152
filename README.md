@@ -5,7 +5,13 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark)
 
-Full-Stack Web Developer skilled in creating scalable web applications and proficient in front-end technologies such as HTML, CSS, and JavaScript (ES6), alongside frameworks like React, Bootstrap, and Tailwind CSS. Experienced in back-end development using Node.js, Express.js, and database management with MySQL, PostgreSQL, and NoSQL databases such as MongoDB. Passionate about delivering exceptional user experiences and adept at developing and consuming Web APIs, including GraphQL. I gained my Full-Stack Web Development certificate from The University of Birmingham, with a proven ability to collaborate in teams, demonstrate creativity, and guide projects from concept to completion.
+Full-Stack Web Developer with experience in building scalable and user-friendly web applications. Skilled in HTML, CSS, JavaScript (ES6+), React, Bootstrap, and Tailwind CSS for front-end development, and proficient in Node.js, Express.js, and database management using MySQL, PostgreSQL, and MongoDB (NoSQL) on the back end.
+
+Comfortable working with third-party APIs and integrating them into applications. Passionate about crafting seamless user experiences, writing clean and efficient code, and collaborating effectively in agile development teams.
+
+Earned a Full-Stack Web Development Certificate from the University of Birmingham, demonstrating problem-solving skills, creativity, and the ability to take projects from concept to completion.
+
+💡 Let's connect and build something great! 🚀
 
 ---
 ## 🛠️ Technical Skills
