@@ -1,6 +1,6 @@
 # Hello, I'm Viren 👋
 
-![Full-Stack Software Engineer](https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-blue?style=flat-square)
+![Full-Stack Software Engineer Badge](https://img.shields.io/badge/Role-Full--Stack%20Software%20Engineer-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Birmingham,%20UK-red?style=flat-square)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&layout=compact&theme=dark)
