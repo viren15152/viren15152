@@ -3,7 +3,6 @@
 ![Full-Stack Software Engineer Badge](https://img.shields.io/badge/Role-Full--Stack%20Software%20Engineer-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Birmingham,%20UK-red?style=flat-square)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=viren15152&theme=dark
 
 Junior Full-Stack Software Engineer with experience in building scalable and user-friendly web applications. Skilled in HTML, CSS, JavaScript (ES6+), React, Bootstrap, and Tailwind CSS for front-end development, and proficient in Node.js, Express.js, and database management using MySQL, PostgreSQL, and MongoDB (NoSQL) on the back end.
 
